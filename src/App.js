@@ -3,8 +3,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>rec</h1>
-    </div>
+      <h1>This is the first commit</h1>
+      <h2>Second commit</h2>
+      </div>
   );
 }
 
